@@ -9,7 +9,7 @@
 •  take action (a media collective group) @ `Private for now`<br /> 
 •  WAYR (Server & client sided Minecraft anti-cheat) @ `Private`<br />
 •  A few more small things and personal projects. <br /> 
-<sub><sub> Other inactive projects include DivisionSMP/MCS (Hosted server & made custom plugins) & ZentoPrison MC (Website development) <br /> </sub></sub>
+<sub> Other inactive projects include DivisionSMP/MCS (Hosted server & made custom plugins) & ZentoPrison MC (Website development) <br /> </sub>
 <h2></h2>
 <div align="center">
     contact me: <a href="mailto:angel@mommymilk.rs">angel@mommymilk.rs <br /></a>
