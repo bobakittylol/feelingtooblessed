@@ -1,0 +1,56 @@
+/* This is part of my Vencord Quick CSS */
+/* Code isn't fully mine, I have modified and added upon it from code via the Vencord discord. */
+/* Feel free to use it by entering the following at the top of your QuickCSS file or OpenAsar theme */
+/*  */
+/* @import url(https://raw.githubusercontent.com/yuunemoo/axxg3l/main/discordQuickCSS.css); */
+/*  */
+
+@import url(//dablulite.github.io/css-snippets/UserReimagined/import.css);
+@import url(//dablulite.github.io/css-snippets/AccountDetailsGrid/import.css);
+@import url(//captain8771.github.io/discordstyles/CompactCord.css);
+@import url(//mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
+
+#vc-spotify-player {
+  padding: 0.875rem 0.5rem !important;
+} 
+
+@import url(//seele1306.github.io/Snippets/BetterProfiles/import.css);
+:root {
+    --section-thickness: 2px;
+}
+
+/* Hide Discord account information, simpler */
+[class^="userSettingsSecurity-"] [class*="description-"] { display: none; }
+[class^="accountProfileCard"] [class*="fieldSpacer"] span:has(button[aria-label^="Reveal"]) { -webkit-text-security: disc; }
+[class^="accountProfileCard"] [class*="fieldSpacer"] span button { -webkit-text-security: none; }
+
+/* Active Now vertical monitor */
+@media only screen and (max-width: 1080px) {
+    [class*="tabBody"] {
+        display: flex;
+        flex-direction: column;
+    }
+
+    [class*="nowPlayingColumn"] {
+        display: block;
+        max-width: unset;
+        order: 0;
+        max-height: 50%;
+        border-bottom: 5px solid var(--background-modifier-accent);
+        flex: 0;
+    }
+
+    [class*="nowPlayingColumn"]>aside>div {
+        border-left: none;
+        margin-left: 0;
+    }
+
+    [class*="nowPlayingColumn"]:has(div[class*="emptyCard"]) {
+        display: none;
+    }
+
+    [class*="peopleColumn"] {
+        order: 1;
+        max-height: 50%;
+    }
+}
