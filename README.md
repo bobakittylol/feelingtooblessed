@@ -13,7 +13,7 @@
 <h2></h2>
 <div align="center">
     contact me: <a href="mailto:angel@mommymilk.rs">angel@mommymilk.rs <br /></a>
-    <sub>discord/instagram/twitter : @axxg3l <br /></sub>
+    <sub>discord/instagram : @feelingtooblessed ; x : @feeling2blessed  <br /></sub>
     <sub><sub> reach me anywhere but i am more-likely reply to emails & discord.</sub></sub>
 </div>
 <!-- - hi ilysm - -->
