@@ -6,13 +6,12 @@
 
 <h2>projects</h2>
 
-•  take action (a media collective group) @ `Private for now`<br /> 
-•  WAYR (Server & client sided Minecraft anti-cheat) @ `Private`<br />
+•  WAYR (Server & client sided anti-cheat) @ `Private`<br />
 •  A few more small things and personal projects. <br /> 
 <sub> Other inactive projects include DivisionSMP/MCS (Hosted server & made custom plugins) & ZentoPrison MC (Website development) <br /> </sub>
 <h2></h2>
 <div align="center">
-    contact me: <a href="mailto:angel@mommymilk.rs">angel@mommymilk.rs <br /></a>
+    contact me: <a href="mailto:angel@kitty.digital">angel@kitty.digital <br /></a>
     <sub>discord/instagram : @feelingtooblessed ; x : @feeling2blessed  <br /></sub>
     <sub><sub> reach me anywhere but i am more-likely reply to emails & discord.</sub></sub>
 </div>
